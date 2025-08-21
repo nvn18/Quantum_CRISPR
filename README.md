@@ -27,7 +27,6 @@ Read the 1-page version: [`abstract/Abstract.md`](abstract/Abstract.md)
 ---
 ## 🏗️ Architecture (High Level)
 
-```mermaid
 flowchart LR
     A["QUNACR9 / Public DNA Data"] --> B["Preprocess & Encode DNA"]
     B --> C["Quantum Superposition (H, CNOT)"]
