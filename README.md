@@ -26,6 +26,8 @@ Read the 1-page version: [`abstract/Abstract.md`](abstract/Abstract.md)
 
 ## 🏗️ Architecture (High Level)
 
+## 🏗️ Architecture (High Level)
+
 ```mermaid
 flowchart LR
     A["QUNACR9 / Public DNA Data"] --> B["Preprocess & Encode DNA"]
@@ -34,6 +36,7 @@ flowchart LR
     D --> E["ML Off-target (SVM/LSTM)"]
     E --> F["Nanobot Delivery Simulation"]
     F --> G["Results & Reports"]
+
 ---
 
 ## 📦 Repository Layout
