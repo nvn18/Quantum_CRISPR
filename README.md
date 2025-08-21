@@ -25,7 +25,6 @@ Read the 1-page version: [`abstract/Abstract.md`](abstract/Abstract.md)
 ---
 
 ## 🏗️ Architecture (High Level)
-```mermaid
 flowchart LR
     A[QUNACR9 / Public DNA Data] --> B[Preprocess & Encode DNA]
     B --> C[Quantum Superposition (H, CNOT)]
@@ -103,15 +102,7 @@ ATCGTACGAT, ATGGTACGAT, 1
 - Encodings verified on simulator.
 - Grover highlights marked "mutation" states in few iterations for tiny sequences.
 - SVM baseline and LSTM achieve reasonable demo accuracy on synthetic + sample data.
-
-> Replace the sample data with your real dataset for meaningful results.
-
----
-
-## 📝 How to Use for Recruiters
-- Pin this repo on GitHub profile.
-- Add links in Resume + LinkedIn (Featured).
-- Include quick GIFs/screenshots of notebook outputs in `images/` and embed here.
+.
 
 ---
 
