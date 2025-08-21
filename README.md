@@ -37,8 +37,6 @@ flowchart LR
     E --> F["Nanobot Delivery Simulation"]
     F --> G["Results & Reports"]
 
----
-
 ## 📦 Repository Layout
 ```
 Quantum-CRISPR-Research/
