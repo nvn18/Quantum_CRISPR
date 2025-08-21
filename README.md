@@ -24,8 +24,7 @@ Read the 1-page version: [`abstract/Abstract.md`](abstract/Abstract.md)
 
 ---
 
-## 🏗️ Architecture (High Level)
-
+---
 ## 🏗️ Architecture (High Level)
 
 ```mermaid
@@ -51,6 +50,7 @@ Quantum-CRISPR-Research/
 │    └── 4_nanobot_delivery_simulation.ipynb
 │── images/ (place any figures here)
 ```
+---
 
 ---
 
