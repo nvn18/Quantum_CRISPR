@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+python -m venv venv
+source venv/bin/activate || source venv/Scripts/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+echo "Setup complete. Launch with: jupyter notebook code/"

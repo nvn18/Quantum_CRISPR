@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+scikit-learn
+tensorflow
+numpy
+pandas
+matplotlib
+jupyter
